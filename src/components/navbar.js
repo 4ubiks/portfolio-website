@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 
 export default function Navbar(){
     return (
-      <div class="navbar bg-base-100">
+      <div class="navbar bg-base-100 autoJustify">
       <div class="flex-1">
       </div>
       <div class="dropdown dropdown-end">

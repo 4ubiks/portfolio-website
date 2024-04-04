@@ -4,7 +4,6 @@
 
 .App {
   text-align: center;
-  @apply lg:px-96 md:px-32 sm:px-8;
 }
 
 .App-logo {
@@ -150,6 +149,11 @@ body{
 
 .codeColorBlue{
   color:rgb(57, 57, 255);
+}
+
+.autoJustify{  
+  text-justify:center;
+  @apply lg:px-96 md:px-32 sm:px-8;
 }
 
 
