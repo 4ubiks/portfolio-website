@@ -4,6 +4,7 @@
 
 .App {
   text-align: center;
+  @apply lg:px-96 md:px-32 sm:px-8;
 }
 
 .App-logo {
