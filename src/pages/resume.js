@@ -15,7 +15,7 @@ export const Resume = () => {
             <p className="pt-8 indent">Passionate lighting designer and production worker with over two years of industry
                 experience. Experienced lighting designer, technician, and programmer. Proud owner of an <a className="underline"href="https://www.malighting.com/product-archive/product/dot2-xl-f-120212/" target="_blank">MA
                 Lighting dot2 XL-F</a> console. Very hardworking and motivated worker who is eager to
-                contribute skills to making shows as spectacular as they can be. Planning on interning in the summer of 2024 with <a className="underline" href="https://www.actentertainment.com" target="_blank">ACT Entertainment</a> and <a className="underline" href="https://gntv.info" target="_blank">GNTV Media</a>. Lives to further the idea that the work done
+                contribute skills to making shows as spectacular as they can be. Excited to be interning with <a className="underline" href="https://www.actentertainment.com" target="_blank">ACT Entertainment</a> and <a className="underline" href="https://gntv.info" target="_blank">GNTV Media</a> in the summer of 2024. Lives to further the idea that the work done
                 behind the scenes is just as important as those who perform onstage.
             </p>
 
@@ -26,10 +26,10 @@ export const Resume = () => {
             <h1 className="indent">
                 <a className="bold pt-8 underline">Bachelor of Science</a>: Computer Science, emphasis in <a className="bold">Software Engineering</a>
             </h1>
-            <h2 className="indent2">- Mathematics Minor</h2>
-            <h2 className="indent2">- Software Engineering Team</h2>
             <h2 className="indent2">- Lighting Technician</h2>
-            <h2 className="indent2">- Competitive Programming Team</h2>
+            <h2 className="indent2">- Mathematics Minor</h2>
+            <h2 className="indent2">- Treasurer of Software Engineering Team</h2>
+            <h2 className="indent2">- Member of Competitive Programming Team</h2>
 
             <h1 className="pt-4 indent">
                 Relevant Coursework: 

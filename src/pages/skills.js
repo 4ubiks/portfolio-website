@@ -53,10 +53,10 @@ export const Skills = () => {
           <pre data-prefix=">" className="text-success"><code>'Rufus' 'WireShark' 'CypherPath' 'PowerShell / CMD'</code></pre>
         </div>
 
-        <h1 className="App fonty pr-60 pt-16 text-2xl">mathematical skills</h1>
+        <h1 className="App fonty pr-60 pt-16 text-2xl">relevant coursework</h1>
 
         <div className="mockup-code">
-          <code className="pl-8"><code className="codeColorBlue">~/courses </code>$ ls</code>
+          <code className="pl-8"><code className="codeColorBlue">~/mathematics </code>$ ls</code>
           <pre data-prefix=">" className="text-success"><code>'Calculus III' 'Logic & Proofs' 'Linear Algebra'</code></pre>
           <pre data-prefix=">" className="text-success"><code>'Mathematica' 'Discrete Mathematics'</code></pre>
         </div>
