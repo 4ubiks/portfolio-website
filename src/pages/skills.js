@@ -26,6 +26,13 @@ export const Skills = () => {
         </div>
         <div className="py-4"></div>
         <div className="mockup-code">
+          <code className="pl-8"><code className="codeColorBlue">~/video </code>$ ls</code>
+          <pre data-prefix=">" className="text-success"><code>'switching' 'video directing' 'editing'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'camera operating' 'jib camera' 'robo camera'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'graphics' 'live events' 'setup/teardown'</code></pre>
+        </div>
+        <div className="py-4"></div>
+        <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/rigging </code>$ ls</code>
           <pre data-prefix=">" className="text-success"><code>'safety procedures' 'working 40'+' 'truss work'</code></pre>
           <pre data-prefix=">" className="text-success"><code>'jr clancy rig lines' 'hanging curtain'</code></pre>
