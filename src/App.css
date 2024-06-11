@@ -97,6 +97,7 @@ body{
   text-indent:72px;
 }
 
+
 .weirdFont{
   font-family:cursive;
 }
@@ -152,7 +153,7 @@ body{
 }
 
 .autoJustify{  
-  text-justify:center;
+  text-justify:center   ;
   @apply lg:px-96 md:px-32 sm:px-16;
 }
 

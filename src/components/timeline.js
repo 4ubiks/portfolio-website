@@ -23,7 +23,7 @@ export default function Timeline(){
                 <div className="timeline-end mb-10 lg:pr-96">
                 <time className="font-mono italic">5/2023 - 8/2023</time>
                 <div className="text-lg font-black">Production Intern - Cherry Hills Community Church</div>
-                Interned with the production team at Cherry Hills Community Church. Experience running real-time lyrics, worked 1,000+ person conferences, and the day-to-day operations of a production venue. Worked as an interim House LD, ran and directed lights for a 3,500 seat auditorium. Spent time designing captivating and efficient light shows, mixed audio for smaller events, and got experience operating arena cameras for upscale graduation ceremonies. 
+                Interned with the production team at Cherry Hills Community Church. Experience running real-time lyrics, worked 1,000+ person conferences, and the day-to-day operations of a production venue. Worked as an interim House LD, ran and directed lights for a 3,500 seat auditorium. Spent time designing captivating and efficient light shows, mixed audio for events, and got experience operating arena cameras for professional graduation ceremonies. 
                 </div>
                 <hr />
             </li>     
@@ -71,7 +71,7 @@ export default function Timeline(){
                 <div className="timeline-end mb-10 lg:pr-96">
                 <time className="font-mono italic">6/2022</time>
                 <div className="text-lg font-black">Lighting Director - Newsies</div>
-                Lighting Director for a youth summer production of 'Newsies'. Responsible for managing two Front-Of-House catwalks, four electric lines, and designing visually pleasing and unique lights for a 500-person theater. 
+                Lighting Director for a youth summer production of 'Newsies'. Responsible for managing two FOH catwalks, four electric lines, and designing visually pleasing and unique lights for a 500-person theater. 
                 </div>
                 <hr />
             </li>
@@ -82,7 +82,7 @@ export default function Timeline(){
                 <div className="timeline-start md:text-end mb-10 lg:pl-96">
                 <time className="font-mono italic">5/2022</time>
                 <div className="text-lg font-black">Tech Director - The Diviners</div>
-                My first experience with technical production was as Tech Director and Lighting Designer and Director for a black-box production of The Diviners, a stage play written by Jim Leonard Jr. This show taught me about different stage lighting fixtures, such as ETC Source 4s, ETC Desire 60s, basic color theory, and programming on a dot2 lighting console.I also learned the basics of patching, and operating a lighting rig during a show.
+                My first experience with technical production was as Tech Director and Lighting Designer and Director for a black-box production of The Diviners, a stage play written by Jim Leonard Jr. This show taught me about different stage lighting fixtures, such as ETC Source 4s, ETC Desire 60s, basic color theory, and programming on a dot2 lighting console. I also learned the basics of patching, and operating a lighting rig during a show.
                 </div>
                 <hr/>
             </li>
