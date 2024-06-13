@@ -70,8 +70,9 @@ export const Skills = () => {
         <div className="py-4"></div>
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/computerScience </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'Data Structures and Algorithms' 'Advanced C++' 'Linux OS'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Data Structures and Algorithms' 'Advanced C++' </code></pre>
           <pre data-prefix=">" className="text-success"><code>'Network Architecture' 'System Administration'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Linux Operating Systems'</code></pre>
         </div>
 
 
