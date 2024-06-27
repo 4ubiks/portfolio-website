@@ -56,8 +56,9 @@ export const Skills = () => {
         <div className="py-4"></div>
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/devTools </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'Linux' 'GitHub' 'VirtualBox' 'Visual Studio Code'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Rufus' 'WireShark' 'CypherPath' 'PowerShell / CMD'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Linux' 'GitHub' 'VirtualBox' 'VS Code'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Rufus' 'WireShark' 'CypherPath' 'PowerShell'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'CMD' 'Unix'</code></pre>
         </div>
 
         <h1 className="App fonty pr-60 pt-16 text-2xl">relevant coursework</h1>
