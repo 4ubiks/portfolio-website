@@ -45,6 +45,7 @@ export const Resume = () => {
             <p className="indent2">- Computer Architecture</p>
             <p className="indent2">- Databases and Design Management</p>
             <p className="indent2">- Defensive Cybersecurity Infrastructure</p>
+            <p className="indent2">- Python and R in Data Science</p>
 
             <p className="pt-8 italic left text-2xl">
                 recent work history:
