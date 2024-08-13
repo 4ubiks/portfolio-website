@@ -23,7 +23,7 @@ export const Resume = () => {
                 education:
             </p>
             <p className="pt-2 left text-l">
-                <p className="indent"> <a className="bold pt-8 underline">Bachelor of Science</a>: Computer Science, emphasis in Software Engineering</p>
+                <p className="indent"> <a className="bold pt-8 underline">Bachelor of Science</a>: Computer Science, emphasis in Data Science</p>
             </p>
 
             <p className="indent2">- Lighting Technician</p>
