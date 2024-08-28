@@ -16,18 +16,6 @@ export const Resume = () => {
             <h1 className="italic App">Contact Information: 720-930-0126    |    jaharris0307@gmail.com | <a className="underline" href="./skills">relevant skills</a></h1>
 
 
-            <div className="form-control">
-            <label className="label cursor-pointer">
-                <span className="label-text">Computer Science</span>
-                <input type="radio" name="radio-10" className="radio " defaultChecked />
-            </label>
-            </div>
-            <div className="form-control">
-            <label className="label cursor-pointer">
-                <span className="label-text">Lighting and Production</span>
-                <input type="radio" name="radio-10" className="radio" defaultChecked />
-            </label>
-            </div>
 
             
 

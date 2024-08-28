@@ -17,8 +17,8 @@ export const Path = () => {
                 </Route>
                 <Route path="/resume" element={<Resume/>}>                    
                 </Route>
-                <Route path="/test" element={<Testing/>}>
-                </Route>
+                {/* <Route path="/test" element={<Testing/>}>
+                </Route> */}
             </Routes>
         </Router>
     )
