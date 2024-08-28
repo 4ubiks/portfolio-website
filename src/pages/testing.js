@@ -118,6 +118,17 @@ export const Testing = () => {
         <p className="indent2 pt-1">● Provided skills in programming and running shows on MA Lighting and </p>
             <p className="indent2">ETC Connect consoles</p>
         
+        {/* ACT */}
+        <p className="indent pt-4"><a className="bold underline">Technical Services Intern</a> - Act Entertainment, <a className="italic">7/2024 to 8/2024</a>
+            </p>
+
+            <p className="indent2 pt-4">● Spent time servicing and repairing MA Lighting products and technology</p>
+            <p className="indent2 pt-1">● Successfully repaired 25+ grandMA2 and grandMA3 products</p>
+            <p className="indent2 pt-1">● Disassembled, analyzed, and performed repairs on Ayrton lighting products</p>
+            <p className="indent2 pt-1">● Enrolled in a grandMA3 programming course</p>
+            <p className="indent2 pt-1">● Replaced controller boards, keys, motorized faders, knobs, and motherboards</p>
+            <p className="indent2 pt-1">● Performed hardware and software stress tests</p>
+
 
         {/* CHCC INTERNSHIP */}
         <p className="indent pt-8"><a className="bold underline">Production Intern</a> - Cherry Hills Community Church, <a className="italic">5/2023 to 8/2023</a></p>
@@ -151,6 +162,12 @@ export const Testing = () => {
         <p className="pt-8 italic left text-2xl">
             personal projects:
         </p>
+        
+        <p className="indent pt-4">
+                <h2><a className="bold">Atari-Themed RPG</a> - 8-bit Atari-themed game created using 6502 Assembly language.
+                 Served as an exposure to assembly language, byte-level operations, memory allocation, 
+                 and computer processing.</h2>
+            </p>
 
         <p className="indent pt-2">
             <h2><a className="bold underline" href="https://ser-website.vercel.app/" target="_blank">Software Engineering Team Website</a> - Responsible for constructing the 'Projects' page for this website. Built with JavaScript, Tailwind CSS, framework from Next.js</h2>
@@ -218,18 +235,7 @@ export const Testing = () => {
             recent work history:
         </p>
 
-        {/* GNTV */}
-        <p className="indent pt-4"><a className="bold underline">Production Intern</a> - GNTV Media, <a className="italic">5/2024 to 6/2024</a>
-        </p>
-
-        <p className="indent2 pt-4">● Traveled across the United States to work multi-day events</p>
-        <p className="indent2 pt-1">● Set up, operated, and tore down large scale production equipment</p>
-        <p className="indent2 pt-1">● Operated audio, video, and lighting consoles during live events</p>
-        <p className="indent2 pt-1">● Worked with professional riggers to set up complex venues</p>
-        <p className="indent2 pt-1">● Built, wired, and operated 14' x 27' LED Walls</p>
-        <p className="indent2 pt-1">● Developed strategic methods of loading and unloading large semi-trucks</p>
-
-
+       
 
 
         {/* LU WORK */}
@@ -252,7 +258,31 @@ export const Testing = () => {
         
         <p className="indent2 pt-1">● Provided skills in programming and running shows on MA Lighting and </p>
             <p className="indent2">ETC Connect consoles</p>
+
+
+        {/* ACT */}
+        <p className="indent pt-4"><a className="bold underline">Technical Services Intern</a> - Act Entertainment, <a className="italic">7/2024 to 8/2024</a>
+            </p>
+
+            <p className="indent2 pt-4">● Spent time servicing and repairing MA Lighting products and technology</p>
+            <p className="indent2 pt-1">● Successfully repaired 25+ grandMA2 and grandMA3 products</p>
+            <p className="indent2 pt-1">● Disassembled, analyzed, and performed repairs on Ayrton lighting products</p>
+            <p className="indent2 pt-1">● Enrolled in a grandMA3 programming course</p>
+            <p className="indent2 pt-1">● Replaced controller boards, keys, motorized faders, knobs, and motherboards</p>
+            <p className="indent2 pt-1">● Performed hardware and software stress tests</p>
         
+        {/* GNTV */}
+        <p className="indent pt-4"><a className="bold underline">Production Intern</a> - GNTV Media, <a className="italic">5/2024 to 6/2024</a>
+            </p>
+
+            <p className="indent2 pt-4">● Traveled across the United States to work multi-day events</p>
+            <p className="indent2 pt-1">● Set up, operated, and tore down large scale production equipment</p>
+            <p className="indent2 pt-1">● Operated audio, video, and lighting consoles during live events</p>
+            <p className="indent2 pt-1">● Worked with professional riggers to set up complex venues</p>
+            <p className="indent2 pt-1">● Built, wired, and operated 14' x 27' LED Walls</p>
+            <p className="indent2 pt-1">● Developed strategic methods of loading and unloading large semi-trucks</p>
+
+
 
         {/* CHCC INTERNSHIP */}
         <p className="indent pt-8"><a className="bold underline">Production Intern</a> - Cherry Hills Community Church, <a className="italic">5/2023 to 8/2023</a></p>
