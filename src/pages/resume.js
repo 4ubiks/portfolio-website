@@ -1,9 +1,12 @@
 import Hero from '../components/hero.js'
 import Footer from'../components/footer.js'
-import React from 'react';
+import React, {useState} from 'react';
+
+
 
 export const Resume = () => {
-    return(
+
+    return(        
         <div className="fonty autoJustify">
             <Hero></Hero>
             <div class="flex justify-center py-4">
@@ -12,6 +15,29 @@ export const Resume = () => {
 
             <h1 className="italic App">Contact Information: 720-930-0126    |    jaharris0307@gmail.com | <a className="underline" href="./skills">relevant skills</a></h1>
 
+
+            <div className="form-control">
+            <label className="label cursor-pointer">
+                <span className="label-text">Computer Science</span>
+                <input type="radio" name="radio-10" className="radio " defaultChecked />
+            </label>
+            </div>
+            <div className="form-control">
+            <label className="label cursor-pointer">
+                <span className="label-text">Lighting and Production</span>
+                <input type="radio" name="radio-10" className="radio" defaultChecked />
+            </label>
+            </div>
+
+            
+
+            
+            <p className="pt-8 indent">
+                Liberty University student studying Computer Science, with a cognate in Data Science. Minoring in Mathematics. I am very involved with that department, as I am currently the Treasurer and Project Leader for the Software Development Club, a member of the Competitve Programming Club, and a member of the Cybersecurity Club. I am a very motivated student and learner, always jumping on every opportunity to learn more about this field and industry. I have worked in languages such as C++, Lua, Python, Rust, R, and web development frameworks like CSS and React.js. I've recently taken a strong interest in predictive models, data science, and AI development. 
+            </p>
+
+
+            
             <p className="pt-8 indent">Passionate lighting designer and production worker with over two years of industry
                 experience. Experienced lighting designer, technician, and programmer. Proud owner of an <a className="underline"href="https://www.malighting.com/product-archive/product/dot2-xl-f-120212/" target="_blank">MA
                 Lighting dot2 XL-F</a> console. Very hardworking and motivated worker who is eager to

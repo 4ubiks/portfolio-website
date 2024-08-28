@@ -12,6 +12,7 @@ export default function Navbar(){
           <li><Link to="/resume">Professional Resume</Link></li>
           <li><Link to="/work">Work History</Link></li>
           <li><Link to="/skills">Skills</Link></li>
+          <li><Link to="/test">Test Page</Link></li>
           <li>
           </li>
         </ul>
