@@ -40,10 +40,11 @@ export const Resume = () => {
                 <p className="indent"> <a className="bold pt-8 underline">Bachelor of Science</a>: Computer Science, emphasis in Data Science</p>
             </p>
 
-            <p className="indent2">- Lighting Technician</p>
             <p className="indent2">- Mathematics Minor</p>
+            <p className="indent2">- LASI Research Team</p>
             <p className="indent2">- Treasurer of Software Engineering Team</p>
             <p className="indent2">- Member of Competitive Programming Team</p>
+            <p className="indent2">- Lighting Technician</p>
 
             <p className="indent pt-4 left text-l">
                 Relevant Coursework: 

@@ -42,6 +42,7 @@ export const Skills = () => {
 
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/social </code>$ ls</code>
+          <pre data-prefix=">" className="text-success"><code>'Critical Thinking' 'Creativity'</code></pre>
           <pre data-prefix=">" className="text-success"><code>'Communication' 'Leadership' 'Management'</code></pre>
           <pre data-prefix=">" className="text-success"><code>'Conflict Resolution' 'Problem Solving'</code></pre>
         </div>
@@ -50,15 +51,15 @@ export const Skills = () => {
 
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/languages </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'C++' 'Lua' 'JavaScript' 'CSS' 'HTML' 'Python'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'C++' 'Lua' 'Bash' 'CSS' 'HTML' 'Python'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB' 'JavaScript'</code></pre>
         </div>
         <div className="py-4"></div>
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/devTools </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'Linux' 'GitHub' 'VirtualBox' 'VS Code'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'GitHub' 'VirtualBox' 'VS Code' 'RStudio</code></pre>
           <pre data-prefix=">" className="text-success"><code>'Rufus' 'WireShark' 'CypherPath' 'PowerShell'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'CMD' 'Unix'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'CMD' 'WSL' 'Docker' 'VMWare Workstation'</code></pre>
         </div>
 
         <h1 className="App fonty pr-60 pt-16 text-2xl">relevant coursework</h1>
@@ -71,9 +72,9 @@ export const Skills = () => {
         <div className="py-4"></div>
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/computerScience </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'Data Structures and Algorithms' 'Advanced C++' </code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Network Architecture' 'System Administration'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Linux Operating Systems'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Data Structures & Algorithms' 'Databases in SQL' </code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Computer Architecture' 'System Administration'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Linux OS' 'Network Architecture''</code></pre>
         </div>
 
 
