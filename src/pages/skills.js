@@ -9,7 +9,34 @@ export const Skills = () => {
       <div>
         <Hero></Hero>
 
-        <h1 className="App fonty pr-64 text-2xl">production skills</h1>
+        <h1 className="App fonty pr-72 pt-4 text-2xl">technical skills</h1>
+
+        <div className="mockup-code">
+          <code className="pl-8"><code className="codeColorBlue">~/languages </code>$ ls</code>
+          <pre data-prefix=">" className="text-success"><code>'C++' 'Lua' 'Bash' 'CSS' 'HTML' 'Python'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB' 'JavaScript'</code></pre>
+        </div>
+        <div className="py-4"></div>
+        <div className="mockup-code">
+          <code className="pl-8"><code className="codeColorBlue">~/devTools </code>$ ls</code>
+          <pre data-prefix=">" className="text-success"><code>'GitHub' 'VirtualBox' 'VS Code' 'RStudio'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Rufus' 'WireShark' 'CypherPath' 'PowerShell'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'CMD' 'WSL' 'Docker' 'VMWare Workstation'</code></pre>
+        </div>
+
+
+
+        <h1 className="App fonty pr-72 pt-16 text-2xl">workplace skills</h1>
+
+        <div className="mockup-code">
+          <code className="pl-8"><code className="codeColorBlue">~/social </code>$ ls</code>
+          <pre data-prefix=">" className="text-success"><code>'Critical Thinking' 'Creativity'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Communication' 'Leadership' 'Management'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Conflict Resolution' 'Problem Solving'</code></pre>
+        </div>
+
+        
+        <h1 className="App fonty pr-64 pt-16 text-2xl">production skills</h1>
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/lighting </code>$ ls</code>
           <pre data-prefix=">" className="text-success"><code>'grandMA3 Hardware/Software' 'troubleshooting'</code></pre>
@@ -33,30 +60,7 @@ export const Skills = () => {
           <pre data-prefix=">" className="text-success"><code>'safety procedures' 'working 40'+' 'truss work'</code></pre>
           <pre data-prefix=">" className="text-success"><code>'jr clancy rig lines' 'hanging curtain'</code></pre>
         </div>
-
-        <h1 className="App fonty pr-72 pt-16 text-2xl">workplace skills</h1>
-
-        <div className="mockup-code">
-          <code className="pl-8"><code className="codeColorBlue">~/social </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'Critical Thinking' 'Creativity'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Communication' 'Leadership' 'Management'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Conflict Resolution' 'Problem Solving'</code></pre>
-        </div>
-
-        <h1 className="App fonty pr-72 pt-16 text-2xl">technical skills</h1>
-
-        <div className="mockup-code">
-          <code className="pl-8"><code className="codeColorBlue">~/languages </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'C++' 'Lua' 'Bash' 'CSS' 'HTML' 'Python'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB' 'JavaScript'</code></pre>
-        </div>
-        <div className="py-4"></div>
-        <div className="mockup-code">
-          <code className="pl-8"><code className="codeColorBlue">~/devTools </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'GitHub' 'VirtualBox' 'VS Code' 'RStudio'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Rufus' 'WireShark' 'CypherPath' 'PowerShell'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'CMD' 'WSL' 'Docker' 'VMWare Workstation'</code></pre>
-        </div>
+       
 
         <h1 className="App fonty pr-60 pt-16 text-2xl">relevant coursework</h1>
 

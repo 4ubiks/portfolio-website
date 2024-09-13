@@ -63,6 +63,33 @@ export const Resume = () => {
                 recent work history:
             </p>
 
+            {/* LASI */}
+            <p className="indent pt-8"><a className="bold underline">Student Researcher</a> - Liberty University LASI, <a className="italic">8/2024 to Current</a>
+             </p>
+
+            <p className="indent2 pt-2">● Collaborated with ten other students studying Computer Science, </p>
+                <p className="indent2"> and other related STEM fields</p>
+                
+            <p className="indent2 pt-1">● Focused on Artificial Intelligence, Neural Networks, and</p>
+                <p className="indent2"> large-scale machine learning</p>
+                
+            <p className="indent2 pt-1">● Presented findings to University President, Provost, </p>
+                <p className="indent2"> and clients</p>
+
+            {/* ROCKETRY */}
+            <p className="indent pt-8"><a className="bold underline">Ground Station Lead</a> - Liberty Rocketry, <a className="italic">8/2024 to Current</a>
+             </p>
+
+            <p className="indent2 pt-2">● Managed and assisted in the development of a ground package </p>
+                <p className="indent2"> computer for Liberty Rocketry's third competiton year</p>
+                
+            <p className="indent2 pt-1">● Worked with Liberty Rocketry's software team, avionics team,</p>
+                <p className="indent2"> and electronics team on live data telemetry</p>
+                
+            <p className="indent2 pt-1">● Studied computer hardware, operating systems, and GUI applications </p>
+                <p className="indent2"> in both C++ and Python</p>
+
+
             {/* LU WORK */}
              <p className="indent pt-8"><a className="bold underline">Lighting Technician</a> - Liberty University Tower Theatre, <a className="italic">8/2023 to Current</a>
              </p>

@@ -69,6 +69,15 @@ export const Portfolio = () => {
             </div>
 
 
+            <h1 className="pb-2 text-2xl autoJustify flex">Wordle in C++</h1>
+            <h2 className="pt-2 text-m autoJustify flex">Exactly as the title describes, the greatest game of all time, in one of the languages of all time.</h2>
+
+            <div className="flex justify-center pt-4">
+                <div className="relative w-full max-w-screen-md diff aspect-[16/9]">
+                <img alt="Lua" src={require('../img/portPage/port6.jpg')}/>
+                </div>
+            </div>
+
             <Footer/>
 
         </div>
