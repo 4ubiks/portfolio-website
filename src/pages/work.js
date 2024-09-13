@@ -7,10 +7,6 @@ export const Work = () => {
      return(
       <div>
          <Hero></Hero>
-
-         <div class="flex justify-center py-4">
-          <div style={{width: 975}} class="border-t border-gray-300"></div>
-         </div>
          
          <Timeline></Timeline>
          <Footer/>

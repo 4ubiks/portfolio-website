@@ -23,7 +23,7 @@ export default function Timeline(){
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-5 w-5"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" /></svg>
                 </div>
                 <div className="timeline-end mb-10 lg:pr-96">
-                <time className="font-mono italic">8/2023 - 9/2024</time>
+                <time className="font-mono italic">8/2023 - Current</time>
                 <div className="text-lg font-black">Lighting Technician - Liberty University Tower Theater</div>
                 Responsible for reading, analyzing, and rigging light plots for two theater spaces - a 640 seat auditorium and a smaller, more intimate Black Box theater. Responsible for hanging gel, gobo, and lens tubes for conventional fixtures and setting larger, moving-head fixtures. Also assigns power and/or DMX channels to fixtures appropriately. Sets up and wires haze machines and other visual effects fixtures, all completed in a timely manner. Occasionally works as the Light Board Operator for shows, and learned in-depth theory behind DMX, artNet, sACN, and different types of DMX configuration.
                 </div>

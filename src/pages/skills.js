@@ -9,10 +9,6 @@ export const Skills = () => {
       <div>
         <Hero></Hero>
 
-        <div class="flex justify-center py-4 pb-8">
-          <div style={{width: 975}} class="border-t border-gray-300"></div>
-        </div>
-
         <h1 className="App fonty pr-64 text-2xl">production skills</h1>
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/lighting </code>$ ls</code>

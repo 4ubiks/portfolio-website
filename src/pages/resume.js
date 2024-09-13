@@ -9,9 +9,6 @@ export const Resume = () => {
     return(        
         <div className="fonty autoJustify">
             <Hero></Hero>
-            <div class="flex justify-center py-4">
-                <div style={{width: 975}} class="border-t border-gray-300"></div>
-            </div>
 
             <h1 className="italic App">Contact Information: 720-930-0126    |    jaharris0307@gmail.com | <a className="underline" href="./skills">relevant skills</a></h1>
 
