@@ -13,7 +13,7 @@ export const Portfolio = () => {
             </h1>
 
             <h1 className="pt-16 pb-2 text-2xl autoJustify flex">Blender Robot</h1>
-            <h2 className="pt-2 text-m autoJustify flex">AutoCAD, Design</h2>
+            <h2 className="pt-2 text-m autoJustify flex">AutoCAD, 3D Design</h2>
 
             <div className="flex justify-center">
                 <div className="relative w-full max-w-screen-md diff aspect-[16/9]">
@@ -44,12 +44,32 @@ export const Portfolio = () => {
             <h2 className="pt-2 text-m autoJustify flex">WIP RPG constructed in 6502 assembly language with MADS assembler / Altirra vis</h2>
 
             <div className="flex justify-center pt-4">
-                <div classname="relative w-full max-w-screen-md diff aspect-[16/9]">
+                <div className="relative w-full max-w-screen-md diff aspect-[16/9]">
                 <img alt="6502" src={require('../img/portPage/port3.jpg')}/>
                 </div>
             </div>
 
-            
+
+            <h1 className="pt-16 pb-2 text-2xl autoJustify flex">Universe Tracer for MA3</h1>
+            <h2 className="pt-2 text-m autoJustify flex">Plugin for grandMA3, written in Lua, it traces and selects all fixtures within one given universe. </h2>
+
+            <div className="flex justify-center pt-4">
+                <div className="relative w-full max-w-screen-md diff aspect-[16/9]">
+                <img alt="Lua" src={require('../img/portPage/port4.jpg')}/>
+                </div>
+            </div>
+
+            <h1 className="pt-16 pb-2 text-2xl autoJustify flex">Ollama Local AI Server</h1>
+            <h2 className="pt-2 text-m autoJustify flex">An ollama-based AI server that runs locally via Ubuntu (on WSL)</h2>
+
+            <div className="flex justify-center pt-4">
+                <div className="relative w-full max-w-screen-md diff aspect-[16/9]">
+                <img alt="Lua" src={require('../img/portPage/port5.jpg')}/>
+                </div>
+            </div>
+
+
+            <Footer/>
 
         </div>
     )

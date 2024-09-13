@@ -20,8 +20,8 @@ export const Path = () => {
                 </Route>
                 {/* <Route path="/test" element={<Testing/>}>
                 </Route> */}
-                {/* <Route path="/portfolio" element={<Portfolio/>}>
-                </Route> */}
+                <Route path="/portfolio" element={<Portfolio/>}>
+                </Route>
             </Routes>
         </Router>
     )

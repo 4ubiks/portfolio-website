@@ -26,7 +26,7 @@ export const Home = () => {
           <div class="App">
           <Carousel></Carousel>
           </div>
-          {/* <h1 className="pt-2 fonty">(find more <a className="underline"><Link to="/portfolio">here</Link></a>!)</h1> */}
+          <h1 className="pt-2 fonty">(find more <a className="underline"><Link to="/portfolio">here</Link></a>!)</h1>
       
           {/* <div class="container">
             <div class="iframe-container">
