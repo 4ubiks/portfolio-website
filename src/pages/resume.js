@@ -18,7 +18,7 @@ export const Resume = () => {
 
             
             <p className="pt-8 indent">
-                Liberty University student studying Computer Science, with a cognate in Data Science. Minoring in Mathematics. I am very involved with that department, as I am currently the Treasurer and Project Leader for the Software Development Club, a member of the Competitve Programming Club, and a member of the Cybersecurity Club. I am a very motivated student and learner, always jumping on every opportunity to learn more about this field and industry. I have worked in languages such as C++, Lua, Python, Rust, R, and web development frameworks like CSS and React.js. I've recently taken a strong interest in predictive models, data science, and AI development. 
+                Liberty University student studying Computer Science, with a cognate in Cybersecurity. Minoring in Mathematics. I am very involved with that department, as I am currently the Treasurer and Project Leader for the Software Development Club, a member of the Competitve Programming Club, and a member of the Cybersecurity Club. I am a very motivated student and learner, always jumping on every opportunity to learn more about this field and industry. I have worked in languages such as C++, Lua, Python, Rust, R, and web development frameworks like CSS and React.js. I've recently taken a strong interest in predictive models, data science, and AI development. 
             </p>
 
 
