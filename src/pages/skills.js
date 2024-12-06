@@ -50,15 +50,14 @@ export const Skills = () => {
 
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/languages </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'C++' 'Lua' 'JavaScript' 'CSS' 'HTML' 'Python'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'C++' 'Lua' 'BASH' 'CSS' 'HTML' 'Python'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB' 'JavaScript'</code></pre>
         </div>
         <div className="py-4"></div>
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/devTools </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'Linux' 'GitHub' 'VirtualBox' 'VS Code'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'CMD' 'GitHub' 'VirtualBox' 'VS Code'</code></pre>
           <pre data-prefix=">" className="text-success"><code>'Rufus' 'WireShark' 'CypherPath' 'PowerShell'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'CMD' 'Unix'</code></pre>
         </div>
 
         <h1 className="App fonty pr-60 pt-16 text-2xl">relevant coursework</h1>
@@ -71,9 +70,9 @@ export const Skills = () => {
         <div className="py-4"></div>
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/computerScience </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'Data Structures and Algorithms' 'Advanced C++' </code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Network Architecture' 'System Administration'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Linux Operating Systems'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Data Structures and Algorithms in C++'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Computer Architecture' 'Database Management in SQL'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Linux Operating Systems' 'Python and R in Data Science'</code></pre>
         </div>
 
 
