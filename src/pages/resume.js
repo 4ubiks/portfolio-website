@@ -26,7 +26,7 @@ export const Resume = () => {
             <p className="pt-8 indent">Passionate lighting designer and production worker with over two years of industry
                 experience. Experienced lighting designer, technician, and programmer. Proud owner of an <a className="underline"href="https://www.malighting.com/product-archive/product/dot2-xl-f-120212/" target="_blank">MA
                 Lighting dot2 XL-F</a> console. Very hardworking and motivated worker who is eager to
-                contribute skills to making shows as spectacular as they can be. Excited to be interning with <a className="underline" href="https://www.actentertainment.com" target="_blank">ACT Entertainment</a> and <a className="underline" href="https://gntv.info" target="_blank">GNTV Media</a> in the summer of 2024. Lives to further the idea that the work done
+                contribute skills to making shows as spectacular as they can be. Former intern at <a className="underline" href="https://www.actentertainment.com" target="_blank">ACT Entertainment</a> in the summer of 2024. Lives to further the idea that the work done
                 behind the scenes is just as important as those who perform onstage.
             </p>
 
