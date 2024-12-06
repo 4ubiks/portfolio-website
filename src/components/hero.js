@@ -8,6 +8,9 @@ export default function Hero(){
             <div className="try text-base-500 font-bold text-center">
                 jack harris
             </div>
+        <div class="flex justify-center py-4">
+            <div style={{width: 975}} class="border-t border-gray-300"></div>
+        </div>
 
         </div>
         </Link>

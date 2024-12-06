@@ -9,9 +9,6 @@ export const Resume = () => {
     return(        
         <div className="fonty autoJustify">
             <Hero></Hero>
-            <div class="flex justify-center py-4">
-                <div style={{width: 975}} class="border-t border-gray-300"></div>
-            </div>
 
             <h1 className="italic App">Contact Information: 720-930-0126    |    jaharris0307@gmail.com | <a className="underline" href="./skills">relevant skills</a></h1>
 
@@ -40,10 +37,11 @@ export const Resume = () => {
                 <p className="indent"> <a className="bold pt-8 underline">Bachelor of Science</a>: Computer Science, emphasis in Data Science</p>
             </p>
 
-            <p className="indent2">- Lighting Technician</p>
             <p className="indent2">- Mathematics Minor</p>
+            <p className="indent2">- LASI Research Team</p>
             <p className="indent2">- Treasurer of Software Engineering Team</p>
             <p className="indent2">- Member of Competitive Programming Team</p>
+            <p className="indent2">- Lighting Technician</p>
 
             <p className="indent pt-4 left text-l">
                 Relevant Coursework: 
@@ -64,6 +62,33 @@ export const Resume = () => {
             <p className="pt-8 italic left text-2xl">
                 recent work history:
             </p>
+
+            {/* LASI */}
+            <p className="indent pt-8"><a className="bold underline">Student Researcher</a> - Liberty University LASI, <a className="italic">8/2024 to Current</a>
+             </p>
+
+            <p className="indent2 pt-2">● Collaborated with ten other students studying Computer Science, </p>
+                <p className="indent2"> and other related STEM fields</p>
+                
+            <p className="indent2 pt-1">● Focused on Artificial Intelligence, Neural Networks, and</p>
+                <p className="indent2"> large-scale machine learning</p>
+                
+            <p className="indent2 pt-1">● Presented findings to University President, Provost, </p>
+                <p className="indent2"> and clients</p>
+
+            {/* ROCKETRY */}
+            <p className="indent pt-8"><a className="bold underline">Ground Station Lead</a> - Liberty Rocketry, <a className="italic">8/2024 to Current</a>
+             </p>
+
+            <p className="indent2 pt-2">● Managed and assisted in the development of a ground package </p>
+                <p className="indent2"> computer for Liberty Rocketry's third competiton year</p>
+                
+            <p className="indent2 pt-1">● Worked with Liberty Rocketry's software team, avionics team,</p>
+                <p className="indent2"> and electronics team on live data telemetry</p>
+                
+            <p className="indent2 pt-1">● Studied computer hardware, operating systems, and GUI applications </p>
+                <p className="indent2"> in both C++ and Python</p>
+
 
             {/* LU WORK */}
              <p className="indent pt-8"><a className="bold underline">Lighting Technician</a> - Liberty University Tower Theatre, <a className="italic">8/2023 to Current</a>

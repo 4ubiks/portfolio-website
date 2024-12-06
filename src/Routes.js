@@ -4,6 +4,7 @@ import {Skills} from './pages/skills';
 import {Work} from './pages/work.js';
 import {Resume} from './pages/resume.js';
 import {Testing} from './pages/testing.js';
+import {Portfolio} from './pages/portfolio.js';
 
 export const Path = () => {
     return(
@@ -19,6 +20,8 @@ export const Path = () => {
                 </Route>
                 {/* <Route path="/test" element={<Testing/>}>
                 </Route> */}
+                <Route path="/portfolio" element={<Portfolio/>}>
+                </Route>
             </Routes>
         </Router>
     )
