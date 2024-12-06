@@ -34,11 +34,12 @@ export const Resume = () => {
                 education:
             </p>
             <p className="pt-2 left text-l">
-                <p className="indent"> <a className="bold pt-8 underline">Bachelor of Science</a>: Computer Science, emphasis in Data Science</p>
+                <p className="indent"> <a className="bold pt-8 underline">Bachelor of Science</a>: Computer Science, emphasis in Cybersecurity</p>
             </p>
 
             <p className="indent2">- Mathematics Minor</p>
             <p className="indent2">- LASI Research Team</p>
+            <p className="indent2">- Liberty Rocketry</p>
             <p className="indent2">- Treasurer of Software Engineering Team</p>
             <p className="indent2">- Member of Competitive Programming Team</p>
             <p className="indent2">- Lighting Technician</p>
@@ -47,17 +48,17 @@ export const Resume = () => {
                 Relevant Coursework: 
             </p> 
             <p className="indent2">- Advanced Calculus</p>
-            <p className="indent2">- Data Structures and Algorithms in C++</p>
+            <p className="indent2">- Computer Architecture</p>
             <p className="indent2">- Network Architecture and Protocol Theory</p>
             <p className="indent2">- Linux Operating Systems</p>
 
             <p className="indent pt-4 left text-l">
-                Anticipated Coursework (Fall 2024):
+                Anticipated Coursework (Spring 2025):
             </p>
-            <p className="indent2">- Computer Architecture</p>
-            <p className="indent2">- Databases and Design Management</p>
-            <p className="indent2">- Defensive Cybersecurity Infrastructure</p>
-            <p className="indent2">- Python and R in Data Science</p>
+            <p className="indent2">- Operating Systems Design</p>
+            <p className="indent2">- Ethical Hacking and Offensive Cybersecurity</p>
+            <p className="indent2">- Information Systems Security</p>
+            <p className="indent2">- Software Engineering Management</p>
 
             <p className="pt-8 italic left text-2xl">
                 recent work history:
