@@ -13,8 +13,8 @@ export const Skills = () => {
 
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/languages </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'C++' 'Lua' 'Bash' 'CSS' 'HTML' 'Python'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB' 'JavaScript'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'C++' 'C' 'Lua' 'Bash' 'CSS' 'HTML' 'Python'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB' 'JavaScript' 'x86'</code></pre>
         </div>
         <div className="py-4"></div>
         <div className="mockup-code">
