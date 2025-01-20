@@ -13,8 +13,8 @@ export const Skills = () => {
 
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/languages </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'C++' 'C' 'Lua' 'Bash' 'CSS' 'HTML' 'Python'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB' 'JavaScript' 'x86'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'C++' 'C' 'Lua' 'Bash' 'x86' 'HTML' 'Python'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB' 'JavaScript' 'CSS'</code></pre>
         </div>
         <div className="py-4"></div>
         <div className="mockup-code">
@@ -73,14 +73,21 @@ export const Skills = () => {
 
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/languages </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'C++' 'Lua' 'BASH' 'CSS' 'HTML' 'Python'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Wolfram Alpha' 'MATLAB' 'JavaScript'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'C' 'Lua' 'Bash' 'x86 Assembly' 'Python'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'CSS' 'C++' 'MATLAB' 'Rust' 'HTML'</code></pre>
         </div>
         <div className="py-4"></div>
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/devTools </code>$ ls</code>
-          <pre data-prefix=">" className="text-success"><code>'CMD' 'GitHub' 'VirtualBox' 'VS Code'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Git' 'GitHub' 'VirtualBox' 'VS Code'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'WSL2' 'VMWare' 'CMD' 'Linux OS'</code></pre>
           <pre data-prefix=">" className="text-success"><code>'Rufus' 'WireShark' 'CypherPath' 'PowerShell'</code></pre>
+        </div>
+
+        <div className="py-4"></div>
+        <div className="mockup-code">
+          <code className="pl-8"><code className="codeColorBlue">~/cad </code>$ ls</code>
+          <pre data-prefix=">" className="text-success"><code>'Blender' 'OnShape' 'AutoCAD' 'SolidWorks'</code></pre>
         </div>
 
         <h1 className="App fonty pr-60 pt-16 text-2xl">relevant coursework</h1>
@@ -88,14 +95,16 @@ export const Skills = () => {
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/mathematics </code>$ ls</code>
           <pre data-prefix=">" className="text-success"><code>'Calculus III' 'Logic & Proofs' 'Linear Algebra'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Differential Equations' 'Statistics and Analysis'</code></pre>
           <pre data-prefix=">" className="text-success"><code>'Mathematica' 'Discrete Mathematics'</code></pre>
         </div>
         <div className="py-4"></div>
         <div className="mockup-code">
           <code className="pl-8"><code className="codeColorBlue">~/computerScience </code>$ ls</code>
           <pre data-prefix=">" className="text-success"><code>'Data Structures and Algorithms in C++'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Computer Architecture' 'Database Management in SQL'</code></pre>
-          <pre data-prefix=">" className="text-success"><code>'Linux Operating Systems' 'Python and R in Data Science'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Operating Systems Design' 'Network Architecture'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Computer Architecture' 'Database Management'</code></pre>
+          <pre data-prefix=">" className="text-success"><code>'Linux Operating Systems' 'Offensive Cybersecurity'</code></pre>
         </div>
 
 

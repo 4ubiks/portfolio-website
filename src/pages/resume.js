@@ -18,7 +18,7 @@ export const Resume = () => {
 
             
             <p className="pt-8 indent">
-                Liberty University student studying Computer Science, with a cognate in Cybersecurity. Minoring in Mathematics. I am very involved with that department, as I am currently the Treasurer and Project Leader for the Software Development Club, a member of the Competitve Programming Club, and a member of the Cybersecurity Club. I am a very motivated student and learner, always jumping on every opportunity to learn more about this field and industry. I have worked in languages such as C++, Lua, Python, Rust, R, and web development frameworks like CSS and React.js. I've recently taken a strong interest in predictive models, data science, and AI development. 
+                Liberty University student studying Computer Science, with a cognate in Cybersecurity. Minoring in Mathematics. I am very involved with that department, as I am currently the Treasurer and Project Leader for the Software Development Club and a tutor for our Computer Architecture course. I am a very motivated student and learner, always jumping on every opportunity to learn more about this field and industry. I have worked in languages such as C, x86, Lua, Python, Rust, R, and web development frameworks like CSS and React.js. I have a strong passion for network architecture, specifically in DMX protocol, sACN/ArtNet transmission, and lighting systems.
             </p>
 
 
@@ -38,27 +38,27 @@ export const Resume = () => {
             </p>
 
             <p className="indent2">- Mathematics Minor</p>
-            <p className="indent2">- LASI Research Team</p>
+            <p className="indent2">- Campus Production Lighting Technician</p>
             <p className="indent2">- Liberty Rocketry</p>
+            <p className="indent2">- LASI Research Team</p>
             <p className="indent2">- Treasurer of Software Engineering Team</p>
-            <p className="indent2">- Member of Competitive Programming Team</p>
-            <p className="indent2">- Lighting Technician</p>
+            <p className="indent2">- Student Tutor</p>
 
             <p className="indent pt-4 left text-l">
                 Relevant Coursework: 
             </p> 
-            <p className="indent2">- Advanced Calculus</p>
-            <p className="indent2">- Computer Architecture</p>
+            <p className="indent2">- Advanced Calculus / Differential Equations</p>
+            <p className="indent2">- Operating Systems Design</p>
             <p className="indent2">- Network Architecture and Protocol Theory</p>
             <p className="indent2">- Linux Operating Systems</p>
 
             <p className="indent pt-4 left text-l">
-                Anticipated Coursework (Spring 2025):
+                Anticipated Coursework (Fall 2025):
             </p>
-            <p className="indent2">- Operating Systems Design</p>
-            <p className="indent2">- Ethical Hacking and Offensive Cybersecurity</p>
-            <p className="indent2">- Information Systems Security</p>
-            <p className="indent2">- Software Engineering Management</p>
+            <p className="indent2">- Compiler and Programming Theory</p>
+            <p className="indent2">- Physics II</p>
+            <p className="indent2">- Cybersecurity Capstone I</p>
+            <p className="indent2">- Distributed Systems and Application</p>
 
             <p className="pt-8 italic left text-2xl">
                 recent work history:

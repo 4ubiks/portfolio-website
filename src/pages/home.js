@@ -37,7 +37,7 @@ export const Home = () => {
           </div> */}
           <div className="autoJustify">
           <div class="flex pb-4 pt-16">
-            I've done significant work in various programming languages such as Lua, C++, Python, and Web Development frameworks. In the past few months, I've taken a strong interest in robotics and hardware systems, especially in humanoid robot development and stage lighting products. Currently, I'm looking for opportunities to contribute my skills and passion!
+            I've done significant work in various programming languages such as Lua, C, Bash, and Web Development frameworks. In the past few months, I've taken a strong interest in robotics and hardware systems, especially in mechatronic system development and stage lighting products. Currently, I'm looking for opportunities to contribute my skills and passion!
           </div>
 
           <div class="fonty pt-8">
@@ -45,16 +45,22 @@ export const Home = () => {
 
 
             <p class="pt-4">
-            ● Ground Station Lead - <a className="underline" rel="noreferrer" href="https://www.liberty.edu/news/2024/07/09/liberty-rocketry-team-earns-top-10-finish-at-spaceport-america-cup/" target="_blank">Liberty Rocketry</a>
+            ● Stage Technician - Liberty University <a className="underline" rel="noreferrer" href="https://www.liberty.edu/information-services/event-production/" target="_blank">Campus Production</a>
+            </p>
+            
+            <p>
+            ● Student Tutor - Liberty University <a className="underline" rel="noreferrer" href="https://www.liberty.edu/business/bachelors/computer-science/" target="_blank">School of Business</a>
             </p>
 
             <p>
-            ● Researcher - Liberty University LASI / <a className="underline" rel="noreferrer" href="https://www.liberty.edu/government/" target="_blank">Liberty University Helms School of Government</a>
+            ● Ground Station Lead - <a className="underline" rel="noreferrer" href="https://www.liberty.edu/news/2024/07/09/liberty-rocketry-team-earns-top-10-finish-at-spaceport-america-cup/" target="_blank">Liberty Rocketry</a>
+            </p>
+
 
             <p>
             ● Treasurer - <a className="underline" rel="noreferrer" href="https://ser-website.vercel.app/" target="_blank">Software Development Club</a>
             </p>
-            </p>
+
           </div>
           </div>
             

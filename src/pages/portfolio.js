@@ -12,6 +12,38 @@ export const Portfolio = () => {
                 hey! check out some of my projects down below. 
             </h1>
 
+            
+            <h1 className="pt-16 pb-2 text-2xl autoJustify flex">Universe Tracer for MA3</h1>
+            <h2 className="pt-2 text-m autoJustify flex">Plugin for grandMA3, written in Lua, it traces and selects all fixtures within one given universe. </h2>
+
+            <div className="flex justify-center pt-4">
+                <div className="relative w-full max-w-screen-md diff aspect-[16/9]">
+                <img alt="Lua" src={require('../img/portPage/port4.jpg')}/>
+                </div>
+            </div>
+
+            
+            <h1 className="pt-16 pb-2 text-2xl autoJustify flex">x86 String Reversal</h1>
+            <h2 className="pt-2 text-m autoJustify flex">Takes a particular string and outputs the reverse. Written in x86 assembly, compiled with NASM </h2>
+
+            <div className="flex justify-center pt-4">
+                <div className="relative w-full max-w-screen-md diff aspect-[16/9]">
+                <img alt="x86 Reversal" src={require('../img/portPage/port7.jpg')}/>
+                </div>
+            </div>
+
+            
+            <h1 className="pt-16 pb-2 text-2xl autoJustify flex">Basic x86 Bootloader</h1>
+            <h2 className="pt-2 text-m autoJustify flex">Bootloader prompting user for commands, accepts keyboard input, and prints input to screen. Exits on `exit`.</h2>
+
+            <div className="flex justify-center pt-4">
+                <div className="relative w-full max-w-screen-md diff aspect-[16/9]">
+                <img alt="Basic Bootloader" src={require('../img/portPage/port8.jpg')}/>
+                </div>
+            </div>
+
+
+
             <h1 className="pt-16 pb-2 text-2xl autoJustify flex">Blender Robot</h1>
             <h2 className="pt-2 text-m autoJustify flex">AutoCAD, 3D Design</h2>
 
@@ -50,14 +82,6 @@ export const Portfolio = () => {
             </div>
 
 
-            <h1 className="pt-16 pb-2 text-2xl autoJustify flex">Universe Tracer for MA3</h1>
-            <h2 className="pt-2 text-m autoJustify flex">Plugin for grandMA3, written in Lua, it traces and selects all fixtures within one given universe. </h2>
-
-            <div className="flex justify-center pt-4">
-                <div className="relative w-full max-w-screen-md diff aspect-[16/9]">
-                <img alt="Lua" src={require('../img/portPage/port4.jpg')}/>
-                </div>
-            </div>
 
             <h1 className="pt-16 pb-2 text-2xl autoJustify flex">Ollama Local AI Server</h1>
             <h2 className="pt-2 text-m autoJustify flex">An ollama-based AI server that runs locally via Ubuntu (on WSL)</h2>
