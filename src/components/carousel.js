@@ -26,7 +26,7 @@ export default function Carousel(){
           onMouseLeave={() => setIsHovered(false)}>
           <img src={require('../img/proj2.jpg')} alt="Pizza" class="w-96"/>
           {isHovered && <h1 className="textual">Capture Render</h1>}
-          {isHovered && <h2 className="textual2">mockup for fun</h2>}
+          {isHovered && <h2 className="textual2">programmed on hog4</h2>}
         </div> 
         </div>
 
